@@ -13,4 +13,5 @@ z = input("Ingrese el valor correspondiente a \"z\": ")
 m = (float(x) + (float(y)/float(z)))/(float(x) - (float(y)/float(z)))
 
 # salida de datos
-print("El valor de m, en base a las variables:\nx = %.2f\n\ty = %.2f\n\t\tz = %.2f\nda como resultado:\n\t\t\tm = %.2f" % (float(x), float(y), float(z), float(m)))
+print("El valor de m, en base a las variables:\nx = %.2f\n\ty = %.2f\n\t\tz = %.2f\nda como \
+	resultado:\n\t\t\tm = %.2f" % (float(x), float(y), float(z), float(m)))
